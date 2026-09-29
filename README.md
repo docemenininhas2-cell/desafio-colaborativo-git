@@ -122,3 +122,15 @@ else:
 
     print("Continue estudando e tente novamente!")
 
+
+    O que estou aprendendo:
+
+    C — fundamentos de programação e lógica.
+Python — programação e desenvolvimento de pequenos projetos.
+HTML — estruturação de páginas web.
+CSS — estilização e organização visual de páginas.
+JavaScript — conceitos de programação para aplicações web.
+Engenharia de Prompt — criação e aprimoramento de prompts para inteligência artificial.
+Git e GitHub — versionamento de código, branches, commits, Issues e Pull Requests.
+Lógica de programação — estruturas condicionais, loops, funções, vetores e matrizes.
+
